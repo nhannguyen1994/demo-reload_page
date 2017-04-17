@@ -13,12 +13,10 @@
 4. Nguyễn Xuân Quang: test director
     -  Tạo reload_page.htm
     
-    //Cách sử dụng:
-        1. usage:
-           npm install
-         2. Run:
-           node reload_page.js
-           http://localhost:3000
+//Cách sử dụng:
+-  npm install
+-  node reload_page.js
+- http://localhost:3000
 
 ## Đội 2: jQuery
 1. Phan Tiến Tùng: leader
