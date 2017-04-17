@@ -14,9 +14,9 @@
     -  Tạo reload_page.htm
     
     //Cách sử dụng:
-         ## usage:
+        1. usage:
            npm install
-         ## Run:
+         2. Run:
            node reload_page.js
            http://localhost:3000
 
