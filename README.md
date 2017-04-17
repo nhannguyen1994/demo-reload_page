@@ -2,15 +2,23 @@
 
 ## Đội 1: Reload whole page
 1. Nguyễn Thị Nhan: leader
-    //Sử dụng nunjuck để đẩy dữ liệu ra reload_page.html
+    - Sử dụng nunjuck để đẩy dữ liệu ra reload_page.html
 2. Đào Mạnh Minh: vice leader
+
     //xử lý backend:
       - dựa vào value từ request lấy ra tất cả các ảnh theo yêu cầu.
       - render về reload_page.html kèm theo danh sách các hình hiển thị.
 3. Phạm Hoàng Nguyên: coder
-    // Hỗ trợ kĩ thuật.
+    - Hỗ trợ kĩ thuật.
 4. Nguyễn Xuân Quang: test director
-    //  Tạo reload_page.htm
+    -  Tạo reload_page.htm
+    
+    //Cách sử dụng:
+            ##usage:
+            npm install
+            ##Run:
+            node reload_page.js
+            http://localhost:3000
 
 ## Đội 2: jQuery
 1. Phan Tiến Tùng: leader
